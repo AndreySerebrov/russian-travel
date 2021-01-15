@@ -1,0 +1,9 @@
+.root {
+    align-items: center;
+    justify-content: center;
+    font-family: 'Inter', 'Arial', sans-serif;
+    background:#2A2C2F;
+    margin: 0;
+    padding: 0;
+}
+  

@@ -1,0 +1,20 @@
+.intro{
+    margin-top:64px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width:100%;
+}
+
+@media screen and (min-width: 320px) {
+    .intro__title{
+        margin-top: min(88px,28vh);
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .intro__title{
+        margin-top: min(92px,12vh);
+    }
+}
+

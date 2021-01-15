@@ -1,0 +1,33 @@
+.intro__frame{
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    width:90%;
+    margin: 0 auto;
+}
+
+@media screen and (min-width: 320px) {
+    .intro__frame{
+        width: min(720px,95vw); 
+    }
+}
+
+@media screen and (min-width:768px ) {
+    .intro__frame{
+        margin-left: min(48px, calc(24px + ((100vw - 768px)/ 10)));
+    }
+} 
+
+@media screen and (min-width: 1024px) {
+    .intro__frame{
+        margin: 0 auto;
+        width: min(928px,90vw);
+    }
+} 
+
+@media screen and (min-width: 1280px) {
+    .intro__frame{
+        width: 984px;
+        margin: 0 auto;
+    }
+}

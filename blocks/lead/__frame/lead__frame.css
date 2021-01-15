@@ -1,0 +1,18 @@
+.lead__frame {
+    margin-top:0;
+    display: flex;
+    flex-direction: column;
+    /* width:100%; */
+}
+
+@media screen and (min-width: 1024px) {
+    .lead__frame{
+        width: min(928px,90%);
+    }
+}
+
+@media screen and (min-width: 1280px) {
+    .lead__frame{
+        width: 984px;
+    }
+}

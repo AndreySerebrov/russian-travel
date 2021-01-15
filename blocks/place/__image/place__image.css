@@ -1,0 +1,7 @@
+.place__image{
+    min-width: 100%;
+    width: auto;
+    outline: white 1pt;
+    margin: 0 auto;
+    padding: 0;
+}

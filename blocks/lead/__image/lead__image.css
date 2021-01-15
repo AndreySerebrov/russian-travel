@@ -1,0 +1,17 @@
+.lead__image {
+    width: min(100%,928px);
+    height: min(62vw,580px);
+    margin: 40px auto 0 auto;
+    padding: 0;
+    object-fit: fill;
+    background-image: url(../../../images/kalegin-michail.png);
+    background-repeat:no-repeat;
+    background-size: 100%;
+}
+
+@media screen and (min-width: 1280px) {
+    .lead__image{
+        width: min(80vw,984px);
+        height: min(62vw,615px);
+    }
+}

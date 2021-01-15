@@ -1,0 +1,8 @@
+.photos-grid{
+    margin-top:64px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width:100%;
+}
+

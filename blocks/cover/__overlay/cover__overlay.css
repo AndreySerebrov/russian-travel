@@ -1,16 +1,16 @@
 .cover__overlay{
     color:white;
-    font-size: min(72px, 10vw);
+    font-size: 32px;
     line-height: 1.2;
     width: min(520px,72%);
     text-align: center;
     margin: 0 auto;
-    padding-top:  11vw;
-    text-decoration: none;
+    padding-top:  32px;
 }
 
 @media screen and (min-width: 320px) {
     .cover__overlay{
         padding-top:  min(235px,20vw);
+        font-size: min(72px, 10vw);
     }
 }

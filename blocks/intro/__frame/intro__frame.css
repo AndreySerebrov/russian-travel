@@ -8,7 +8,7 @@
 
 @media screen and (min-width: 320px) {
     .intro__frame{
-        width: min(720px,95vw); 
+        width: min(720px,95vw);
     }
 }
 

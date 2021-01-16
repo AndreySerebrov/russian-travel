@@ -3,6 +3,7 @@
     font-size: 12px;
     color: white;
     line-height: 1.5;
-    /* width:170px;*/
+    list-style-type: none;
     font-weight: bold;
+    padding: 0;
 }

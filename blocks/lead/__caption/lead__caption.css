@@ -7,7 +7,7 @@
     margin-left: 16px;
 }
 
-@media screen and (min-width: 320px) {
+/* @media screen and (min-width: 320px) {
     .lead__caption{
         margin-left: 4vw;
     }
@@ -17,7 +17,7 @@
     .lead__caption{
         margin-left: max(0,calc(30px - (100vw - 768px)*0.05));
     }
-}
+} */
 
 
 @media screen and (min-width: 1024px) {

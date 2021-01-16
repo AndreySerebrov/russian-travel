@@ -1,6 +1,7 @@
 .cover{
-    margin-top:99px;
     text-decoration: none;
     width:100%;
     max-width: 1184px;
+    margin: 0 auto;
+    margin-top:99px;
 }

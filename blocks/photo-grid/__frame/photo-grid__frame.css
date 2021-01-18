@@ -26,7 +26,7 @@
 
 @media screen and (min-width: 1280px) {
     .photo-grid__frame{
-        width: 1184px; 
+        width: 1184px;
         grid-template-columns: repeat(4,284px);
     }
 }

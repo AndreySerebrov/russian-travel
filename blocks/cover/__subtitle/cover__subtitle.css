@@ -3,11 +3,10 @@
     font-size: 14px;
     list-style: 1.2;
     text-align: center;
-    margin: 0 auto;
-    margin-top: 16px;
+    margin: 16px auto 0 auto;
     width: 95%;
     text-decoration: none;
-    z-index: 1;
+    z-index: 2;
 }
 
 

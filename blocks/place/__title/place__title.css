@@ -9,9 +9,18 @@
 }
 
 
-@media screen and (min-width: 320px) {
+@media screen and (min-width: 680px) {
     .place__title{
         margin-left: 0;
+        font-size: 42px;
     }
 } 
  
+
+
+@media screen and (min-width: 1024px) {
+    .place__title{
+        margin-left: 0;
+        font-size: 72px;
+    }
+} 

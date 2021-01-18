@@ -8,7 +8,7 @@
 
 @media screen and (min-width: 320px) {
     .header__lang-link{
-      font-size: min(30px, 5.6vw);
+      font-size: min(24px, 5.6vw);
     }
 }
 

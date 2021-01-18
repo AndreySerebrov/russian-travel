@@ -4,18 +4,6 @@
     flex-direction: column;
     align-items: center;
     position: relative;
-    max-width: 984px;
+    width: min(100%,928px);
     padding: 0;
 }
-
-/* @media screen and (min-width: 1024px) {
-    .lead__frame{
-        width: min(928px,90%);
-    }
-} 
-
-@media screen and (min-width: 1280px) {
-    .lead__frame{
-        width: 984px;
-    }
-} */

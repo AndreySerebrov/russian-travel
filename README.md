@@ -1,5 +1,5 @@
 # Web-разработка. Проект 3: Путешествие по России
-[посмотреть на github pages](https://github.com/AndreySerebrov/russian-travel)
+[посмотреть на github pages](https://andreyserebrov.github.io/russian-travel/index.html)
 
 ### бриф
 

@@ -6,3 +6,14 @@
     width:100%;
 }
 
+@media screen and (min-width: 680px) {
+    .photo-grid__frame{
+        margin-top:88px;
+    }
+}
+
+@media screen and (min-width: 1023px) {
+    .photo-grid__frame{
+        margin-top:92px;
+    }
+}

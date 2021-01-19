@@ -1,5 +1,5 @@
 .places{
-    margin-top: 50px;
+    margin-top: 64px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -7,3 +7,15 @@
     width: 100%;
 }
 
+
+@media screen and (min-width: 680px) {
+    .places{
+        margin-top:88px;
+    }
+}
+
+@media screen and (min-width: 1023px) {
+    .places{
+        margin-top:92px;
+    }
+}

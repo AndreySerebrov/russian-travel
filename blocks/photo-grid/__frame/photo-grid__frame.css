@@ -1,7 +1,7 @@
 .photo-grid__frame{
     display:grid;
     justify-content:center;
-    margin: 80px auto 0 auto;
+    margin: 0 auto;
     grid-template-columns: 1fr;
     gap: 12px;
     width: 94%;

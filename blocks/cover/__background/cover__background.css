@@ -5,10 +5,9 @@
     margin: 0 auto;
     text-decoration: none;
     min-width: 300px;
-    min-height: 187px;
     max-width: 1184px;
     max-height: 740px;
-    height: 62.5vw;
+    min-height: 62.5vw;
 
     display:flex;
     justify-content:center;

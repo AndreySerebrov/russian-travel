@@ -3,13 +3,13 @@
   grid-template-columns: 1fr;
   justify-content: center;
   min-width: 300px;
-  row-gap: 32px; 
+  row-gap: 32px;
   column-gap: 50px;
  
   margin-top: 50px;
   margin-bottom: 0px;
   margin-left: 0;
-  padding: 0; 
+  padding: 0;
   overflow: hidden;
 }
 
